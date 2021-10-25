@@ -1,0 +1,21 @@
+{
+   "version":8,
+      "sources":{
+         "esri":{
+            "url":"https://storage.googleapis.com/geoaccelerators/index.json",
+            "type":"vector"
+         }
+      },
+   "layers":[
+      {
+         "id":"japan_ver821",
+         "paint":{
+            "fill-color":"#0000FF",
+            "fill-outline-color":"#C0C0C0"
+         },
+         "source":"esri",
+         "source-layer":"japan_ver821",
+         "type":"fill"
+      }
+   ]
+}
