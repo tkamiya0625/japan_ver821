@@ -2,7 +2,7 @@
    "version":8,
       "sources":{
          "esri":{
-            "url":"https://tkamiya0625.github.io/japan_ver821/vectorTileServer",
+            "url":"https://tkamiya0625.github.io/japan_ver821/VectorTileServer",
             "type":"vector"
          }
       },
